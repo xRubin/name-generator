@@ -106,6 +106,8 @@ $MarkovName->setNameList([
     'Эрестор',
 ]);
 $MarkovName->makeList();
+
+echo $MarkovName->makeName();
 ````
 
 - Маглинарас
