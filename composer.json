@@ -1,6 +1,5 @@
 {
     "name": "rubin/name-generator",
-    "type": "project",
     "autoload": {
         "psr-4": {
             "Rubin\\NameGenerator\\": "src/"
